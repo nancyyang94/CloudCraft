@@ -1,0 +1,2 @@
+# CloudCraft
+Blue Ocean project
